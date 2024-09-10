@@ -1,6 +1,6 @@
 <h1 align="center">
    <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=30&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+perfil!;Me+chamo+SABRINA+OLIVEIRA." alt="Typing SVG"/></a>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Playfair&weight=600&size=35&duration=1500&pause=500&color=F7F7F7&center=true&repeat=false&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+perfil!;Me+chamo+Sabrina+Oliveira" alt="Typing SVG" /></a>
 </h1>
 <h4 align="center">Welcome to my profile, I am Sabrina!</h4>
 
